@@ -88,6 +88,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="README.md" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\app.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
