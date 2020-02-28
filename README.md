@@ -4,7 +4,7 @@
 
 A simple Todo/Shopping list handling webapp with CRUD functions
 
-## Thechnologies used
+## Technologies used:
 
 - ASP.NET Web API
 - Models & Controllers
